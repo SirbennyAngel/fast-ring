@@ -4,8 +4,8 @@ authors = ["FastRing Team"]
 description = "Dynamic digital asset tracking and performance management"
 telemetry = false
 requirements = []
-[contracts.vault-pulse]
-path = "contracts/vault-pulse.clar"
+[contracts.ring-vault]
+path = "contracts/ring-vault.clar"
 depends_on = []
 
 [repl]
